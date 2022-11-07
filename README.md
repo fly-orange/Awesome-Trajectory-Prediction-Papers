@@ -137,18 +137,20 @@ Welcome to comments!
   **[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Where_Are_You_Heading_Dynamic_Trajectory_Prediction_With_Expert_Goal_ICCV_2021_paper.pdf)**
   **[Code](https://github.com/JoeHEZHAO/expert_traj)**
 - (2021) MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction.
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Dendorfer_MG-GAN_A_Multi-Generator_Model_Preventing_Out-of-Distribution_Samples_in_Pedestrian_Trajectory_ICCV_2021_paper.pdf)**
+  **[Code](https://github.com/selflein/MG-GAN.)**
 - (2021) Unlimited Neighborhood Interaction for Heterogenous Trajectory Prediction.
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zheng_Unlimited_Neighborhood_Interaction_for_Heterogeneous_Trajectory_Prediction_ICCV_2021_paper.pdf)**
 - (2021) LOKI: Long Term and Key Intentions for Trajectory Prediction.
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Girase_LOKI_Long_Term_and_Key_Intentions_for_Trajectory_Prediction_ICCV_2021_paper.pdf)**
 - (2021) From Goals,Waypoints & Paths To Long Term Human Trajectory Forecasting.
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Mangalam_From_Goals_Waypoints__Paths_to_Long_Term_Human_Trajectory_ICCV_2021_paper.pdf)**
+  **[Code](https://karttikeya.github.io/publication/ynet/)**
 - (2021) LookOut: Diverse Multi-Future Prediction and Planning for Self-Driving.
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cui_LookOut_Diverse_Multi-Future_Prediction_and_Planning_for_Self-Driving_ICCV_2021_paper.pdf)**
 
 - (2019) PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings.
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Rhinehart_PRECOG_PREdiction_Conditioned_on_Goals_in_Visual_Multi-Agent_Settings_ICCV_2019_paper.pdf)**
 
 
 ## CoRL
