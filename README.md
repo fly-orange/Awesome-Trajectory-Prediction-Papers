@@ -150,6 +150,20 @@ Welcome to comments!
   **[Paper]()**
 
 
+## CoRL
+
+- (2022) SMART: Structured Multi-Agent Interactive Trajectories Forecasting for Autonomous Driving.
+  **[Paper]()**
+- (2022) Towards Capturing the Temporal Dynamics for Trajectory Prediction: a Coarse-to-Fine Approach.
+  **[Paper]()**
+- (2021) Multimodal Trajectory Prediction Conditioned on Lane-Graph Traversal.
+  **[Paper]()**
+- (2021) Learning to Predict Vehicle Trajectories with Model-based planning.
+  **[Paper]()**
+- (2020) MATS: An Interpretable Trajectory Forecasting Representation for Planning and Control.
+  **[Paper]()**
+
+
 ## arXiv
 
 - (2022) Wayformer:Motion Forecasting via simple and efficient networks.
@@ -173,10 +187,7 @@ NeurIPS 2022 All Paper List **[List](https://nips.cc/Conferences/2022/Schedule?t
 
 
 
-## ICRA 2022
 
-- Path-Aware Graph Attention for HD Maps in Motion Prediction.
-  **[arXiv](https://arxiv.org/abs/2202.13772)**
 
 ## ICLR 2022
 
