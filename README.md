@@ -15,10 +15,6 @@ Welcome to comments!
 
 ## CVPR 2022
 
-First main conference, then workshop, in alphabet order.
-
-### Trajectory Prediction Related
-
 - (2022) Adaptive Trajectory Prediction via Transferable GNN.
   **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Adaptive_Trajectory_Prediction_via_Transferable_GNN_CVPR_2022_paper.pdf)**
 - (2022) End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps.
@@ -79,9 +75,9 @@ First main conference, then workshop, in alphabet order.
   **[Paper]()**
 - (2021) Shared Cross-Modal Trajectory Prediction for Autonomous Driving
   **[Paper]()**
-- (2021) emporal Point Cloud Networks for Motion Forecasting
-- 
+- (2021) Temporal Point Cloud Networks for Motion Forecasting
   **[Paper]()**
+  
 - (2020) VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation
   **[Paper]()**
 - (2020) CoverNet: 2020_CVPR_CoverNet: Multimodal Behavior Prediction using Trajectory Sets
