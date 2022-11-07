@@ -69,11 +69,10 @@ Welcome to comments!
   **[Paper]()**
 - (2021) SGCN:Sparse Graph Convolution Network for Pedestrian Trajectory Prediction
   **[Paper]()**
+  **[Code](https://github.com/shuaishiliu/SGCN)**
 - (2021) Trajectory Prediction with Latent Belief Energy-Based Model
   **[Paper]()**
 - (2021) LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents
-  **[Paper]()**
-- (2021) Shared Cross-Modal Trajectory Prediction for Autonomous Driving
   **[Paper]()**
 - (2021) Temporal Point Cloud Networks for Motion Forecasting
   **[Paper]()**
@@ -116,8 +115,9 @@ Welcome to comments!
 - (2022) SocialVAE: Human Trajectory Prediction using Timewise Latents.
   **[Paper](https://arxiv.org/abs/2203.08207)**
   **[Code](https://github.com/xupei0610/SocialVAE)**
-- (2022)View Vertically: A Hierarchical Network for Trajectory Prediction via Fourier Spectrums.
+- (2022) View Vertically: A Hierarchical Network for Trajectory Prediction via Fourier Spectrums.
   **[Paper](https://arxiv.org/abs/2110.07288)**
+  **[Code](https://github.com/cocoon2wong/Vertical)**
 
 - (2020) PiP: Planning-Informed Trajectory Prediction for Autonomous Driving.
   **[Paper]()**
@@ -158,6 +158,8 @@ Welcome to comments!
   **[Paper]()**
 - (2021) Multimodal Trajectory Prediction Conditioned on Lane-Graph Traversal.
   **[Paper]()**
+  **[Code](nachiket92/PGP: Code for "Multimodal Trajectory Prediction Conditioned on Lane-Graph Traversals," CoRL 2021. (github.com)
+)**
 - (2021) Learning to Predict Vehicle Trajectories with Model-based planning.
   **[Paper]()**
 - (2020) MATS: An Interpretable Trajectory Forecasting Representation for Planning and Control.
