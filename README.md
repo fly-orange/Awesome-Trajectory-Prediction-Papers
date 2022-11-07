@@ -65,8 +65,36 @@ First main conference, then workshop, in alphabet order.
 - (2022) HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction.
   **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.pdf)**
   **[Code](https://github.com/ZikangZhou/HiVT)**
-- Human Trajectory Prediction With Momentary Observation.
-  **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Human_Trajectory_Prediction_With_Momentary_Observation_CVPR_2022_paper.pdf)**
+- Raising Context Awareness in Motion Forecasting.
+  **[Paper](https://openaccess.thecvf.com/content/CVPR2022W/WAD/papers/Ben-Younes_Raising_Context_Awareness_in_Motion_Forecasting_CVPRW_2022_paper.pdf)**
+  **[Code](https://github.com/valeoai/CAB)**
+  
+- (2021) Shared Cross-Modal Trajectory Prediction for Autonomous Driving
+  **[Paper]()**
+- (2021) SGCN:Sparse Graph Convolution Network for Pedestrian Trajectory Prediction
+  **[Paper]()**
+- (2021) Trajectory Prediction with Latent Belief Energy-Based Model
+  **[Paper]()**
+- (2021) LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents
+  **[Paper]()**
+- (2021) Shared Cross-Modal Trajectory Prediction for Autonomous Driving
+  **[Paper]()**
+- (2021) emporal Point Cloud Networks for Motion Forecasting
+- 
+  **[Paper]()**
+- (2020) VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation
+  **[Paper]()**
+- (2020) CoverNet: 2020_CVPR_CoverNet: Multimodal Behavior Prediction using Trajectory Sets
+  **[Paper]()**
+- (2018) Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks
+  **[Paper]()**
+- (2016) Human Trajectory Prediction in Crowded Spaces
+  **[Paper]()**
+
+ 
+  
+
+ 
 
 
 ## arXiv
