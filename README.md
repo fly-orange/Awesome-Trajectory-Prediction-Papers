@@ -14,18 +14,16 @@ Welcome to comments!
 [awesome-trajectory-motion-prediction-papers](https://github.com/colorfulfuture/vision-based-prediction)
 
 ## arXiv
-### 2022
-- Wayformer:Motion Forecasting via simple and efficient networks.
+
+- 2022_Wayformer:Motion Forecasting via simple and efficient networks.
   **[paper](https://arxiv.org/abs/2209.11820)**
-
-- Safety-compliant Generative Adversarial Networks for Human Trajectory Forecasting. 
-  **[arXiv](https://arxiv.org/abs/2209.12243)**
-
-- SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving.
+- 2022_SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving.
   **[paper](https://arxiv.org/abs/2206.14116)**
   **[Code](https://github.com/AutoVision-cloud/SSL-Lanes)**
-- Wayformer: Motion Forecasting via Simple & Efficient Attention Networks.
-  **[paper](https://arxiv.org/abs/2207.05844)**
+- 2022_VectorFlow: Combing Images and Vectors for Traffic Occupancy and Flow Prediction.
+  **[paper](https://arxiv.org/abs/2208.04530)
+
+
 
 ## NeurIPS 2022
 NeurIPS 2022 All Paper List **[List](https://nips.cc/Conferences/2022/Schedule?type=Poster/)**
