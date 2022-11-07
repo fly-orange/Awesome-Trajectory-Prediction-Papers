@@ -15,12 +15,12 @@ Welcome to comments!
 
 ## arXiv
 
-- 2022_Wayformer:Motion Forecasting via simple and efficient networks.
+- (2022) Wayformer:Motion Forecasting via simple and efficient networks.
   **[paper](https://arxiv.org/abs/2209.11820)**
-- 2022_SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving.
+- (2022) SSL-Lanes: Self-Supervised Learning for Motion Forecasting in Autonomous Driving.
   **[paper](https://arxiv.org/abs/2206.14116)**
   **[Code](https://github.com/AutoVision-cloud/SSL-Lanes)**
-- 2022_VectorFlow: Combing Images and Vectors for Traffic Occupancy and Flow Prediction.
+- (2022) VectorFlow: Combing Images and Vectors for Traffic Occupancy and Flow Prediction.
   **[paper](https://arxiv.org/abs/2208.04530)
 
 
