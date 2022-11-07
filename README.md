@@ -184,19 +184,19 @@ Welcome to comments!
    **[Paper]()**
    
 
-## ICLR 2022
+## ICLR
 
-- D-CODE: Discovering Closed-form ODEs from Observed Trajectories.
+- (2022) D-CODE: Discovering Closed-form ODEs from Observed Trajectories.
   **[Paper](https://openreview.net/forum?id=wENMvIsxNN)**
   **[Code](https://github.com/ZhaozhiQIAN/D-CODE-ICLR-2022)**
-- Latent Variable Sequential Set Transformers For Joint Multi-Agent Motion Prediction.
+- (2022) Latent Variable Sequential Set Transformers For Joint Multi-Agent Motion Prediction.
   **[Paper](https://openreview.net/forum?id=Dup_dDqkZC5)**
   **[Code](https://gist.github.com/fgolemo/e6ff3daddcf735e8835789bbb39ece58)**
-- Scene Transformer: A Unified Architecture for Predicting Multiple Agent Trajectories.
+- (2022) Scene Transformer: A Unified Architecture for Predicting Multiple Agent Trajectories.
   **[Paper](https://openreview.net/forum?id=Wm3EA5OlHsG)**
-- THOMAS: Trajectory Heatmap Output with learned Multi-Agent Sampling.
+- (2022) THOMAS: Trajectory Heatmap Output with learned Multi-Agent Sampling.
   **[Paper](https://openreview.net/forum?id=QDdJhACYrlX)**
-- You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction.
+- (2022) You Mostly Walk Alone: Analyzing Feature Attribution in Trajectory Prediction.
   **[Paper](https://openreview.net/forum?id=POxF-LEqnF)**
 
 
