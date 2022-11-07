@@ -64,7 +64,7 @@ Welcome to comments!
 - Raising Context Awareness in Motion Forecasting.
   **[Paper](https://openaccess.thecvf.com/content/CVPR2022W/WAD/papers/Ben-Younes_Raising_Context_Awareness_in_Motion_Forecasting_CVPRW_2022_paper.pdf)**
   **[Code](https://github.com/valeoai/CAB)**
-  
+ 
 - (2021) Shared Cross-Modal Trajectory Prediction for Autonomous Driving
   **[Paper]()**
 - (2021) SGCN:Sparse Graph Convolution Network for Pedestrian Trajectory Prediction
@@ -130,11 +130,12 @@ Welcome to comments!
 ## ICCV
 
 - (2021) Bifold and Semantic Reasoning for Pedestrian Behavior Prediction.
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Rasouli_Bifold_and_Semantic_Reasoning_for_Pedestrian_Behavior_Prediction_ICCV_2021_paper.pdf)**
 - (2021) Spatial-Temporal Consistency Network for Low-Latency Trajectory Forecasting.
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Spatial-Temporal_Consistency_Network_for_Low-Latency_Trajectory_Forecasting_ICCV_2021_paper.pdf)**
 - (2021) Where are you heading? Dynamic Trajectory Prediction with Expert Goal Examples.
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Where_Are_You_Heading_Dynamic_Trajectory_Prediction_With_Expert_Goal_ICCV_2021_paper.pdf)**
+  **[Code](https://github.com/JoeHEZHAO/expert_traj)**
 - (2021) MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction.
   **[Paper]()**
 - (2021) Unlimited Neighborhood Interaction for Heterogenous Trajectory Prediction.
