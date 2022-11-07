@@ -158,8 +158,7 @@ Welcome to comments!
   **[Paper]()**
 - (2021) Multimodal Trajectory Prediction Conditioned on Lane-Graph Traversal.
   **[Paper]()**
-  **[Code](nachiket92/PGP: Code for "Multimodal Trajectory Prediction Conditioned on Lane-Graph Traversals," CoRL 2021. (github.com)
-)**
+  **[Code](nachiket92/PGP: Code for "Multimodal Trajectory Prediction Conditioned on Lane-Graph Traversals," CoRL 2021. (github.com))**
 - (2021) Learning to Predict Vehicle Trajectories with Model-based planning.
   **[Paper]()**
 - (2020) MATS: An Interpretable Trajectory Forecasting Representation for Planning and Control.
