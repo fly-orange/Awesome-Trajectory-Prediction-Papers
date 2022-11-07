@@ -10,7 +10,8 @@ Welcome to comments!
 
 **Other Related Paper Collection: (Alive)**
 
-[Github](https://github.com/aras62/vision-based-prediction)
+[vision-based-prediction](https://github.com/aras62/vision-based-prediction)
+[awesome-trajectory-motion-prediction-papers](https://github.com/colorfulfuture/vision-based-prediction)
 
 ## arXiv
 - Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning.
