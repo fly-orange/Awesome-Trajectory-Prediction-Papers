@@ -1,4 +1,4 @@
-# Trajectory/Motion Prediction Papers
+# Trajectory Prediction Papers
 
 ![LastUpdated](https://img.shields.io/badge/LastUpdated-2022.10.03-lightgrey.svg)
 ![topic](https://img.shields.io/badge/topic-trajectory--prediction-brightgreen.svg?logo=github)
