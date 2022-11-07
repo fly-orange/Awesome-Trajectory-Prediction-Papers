@@ -66,25 +66,26 @@ Welcome to comments!
   **[Code](https://github.com/valeoai/CAB)**
  
 - (2021) Shared Cross-Modal Trajectory Prediction for Autonomous Driving
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Shared_Cross-Modal_Trajectory_Prediction_for_Autonomous_Driving_CVPR_2021_paper.pdf)**
 - (2021) SGCN:Sparse Graph Convolution Network for Pedestrian Trajectory Prediction
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_SGCN_Sparse_Graph_Convolution_Network_for_Pedestrian_Trajectory_Prediction_CVPR_2021_paper.pdf)**
   **[Code](https://github.com/shuaishiliu/SGCN)**
 - (2021) Trajectory Prediction with Latent Belief Energy-Based Model
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Pang_Trajectory_Prediction_With_Latent_Belief_Energy-Based_Model_CVPR_2021_paper.pdf)**
+  **[Code](https://github.com/bpucla/lbebm)**
 - (2021) LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_LaPred_Lane-Aware_Prediction_of_Multi-Modal_Future_Trajectories_of_Dynamic_Agents_CVPR_2021_paper.pdf)**
 - (2021) Temporal Point Cloud Networks for Motion Forecasting
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ye_TPCN_Temporal_Point_Cloud_Networks_for_Motion_Forecasting_CVPR_2021_paper.pdf)**
   
 - (2020) VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_VectorNet_Encoding_HD_Maps_and_Agent_Dynamics_From_Vectorized_Representation_CVPR_2020_paper.pdf)**
 - (2020) CoverNet: 2020_CVPR_CoverNet: Multimodal Behavior Prediction using Trajectory Sets
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Phan-Minh_CoverNet_Multimodal_Behavior_Prediction_Using_Trajectory_Sets_CVPR_2020_paper.pdf)**
 - (2018) Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Gupta_Social_GAN_Socially_CVPR_2018_paper.pdf)**
 - (2016) Human Trajectory Prediction in Crowded Spaces
-  **[Paper]()**
+  **[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf)**
 
  ## ECCV
 
@@ -120,15 +121,17 @@ Welcome to comments!
   **[Code](https://github.com/cocoon2wong/Vertical)**
 
 - (2020) PiP: Planning-Informed Trajectory Prediction for Autonomous Driving.
-  **[Paper]()**
+  **[Paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58589-1_36.pdf)**
 - (2020) Dynamically-Feasible Trajectory Forecasting with Heterogeneous Data.
-  **[Paper]()**
+  **[Paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58523-5_40.pdf)**
+  **[Code](https://github.com/StanfordASL/Trajectron-plus-plus)**
 - (2020) Learning Lane Graph Representations for Motion Forecasting.
-  **[Paper]()**
+  **[Paper](https://link.springer.com/content/pdf/10.1007/978-3-030-58536-5_32.pdf)**
 
   
 ## ICCV
-
+- (2021) DenseTNT: End-to-end Trajectory Prediction from Dense Goal Sets.
+  **[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_DenseTNT_End-to-End_Trajectory_Prediction_From_Dense_Goal_Sets_ICCV_2021_paper.pdf)**
 - (2021) Bifold and Semantic Reasoning for Pedestrian Behavior Prediction.
   **[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Rasouli_Bifold_and_Semantic_Reasoning_for_Pedestrian_Behavior_Prediction_ICCV_2021_paper.pdf)**
 - (2021) Spatial-Temporal Consistency Network for Low-Latency Trajectory Forecasting.
@@ -156,36 +159,36 @@ Welcome to comments!
 ## CoRL
 
 - (2022) SMART: Structured Multi-Agent Interactive Trajectories Forecasting for Autonomous Driving.
-  **[Paper]()**
+  **[Paper](https://openreview.net/pdf?id=Y42uoIekm5b)**
 - (2022) Towards Capturing the Temporal Dynamics for Trajectory Prediction: a Coarse-to-Fine Approach.
-  **[Paper]()**
+  **[Paper](https://openreview.net/pdf?id=PZiKO7mjC43)**
 - (2021) Multimodal Trajectory Prediction Conditioned on Lane-Graph Traversal.
-  **[Paper]()**
+  **[Paper](https://proceedings.mlr.press/v164/deo22a/deo22a.pdf)**
   **[Code](https://github.com/nachiket92/PGP)**
 - (2021) Learning to Predict Vehicle Trajectories with Model-based planning.
-  **[Paper]()**
+  **[Paper](https://proceedings.mlr.press/v164/song22a/song22a.pdf)**
 - (2020) MATS: An Interpretable Trajectory Forecasting Representation for Planning and Control.
-  **[Paper]()**
+  **[Paper](https://arxiv.org/pdf/2009.07517.pdf)**
 - (2020) TNT: Target-driveN Trajectory Prediction.
-  **[Paper]()**
+  **[Paper](https://proceedings.mlr.press/v155/zhao21b/zhao21b.pdf)**
 - (2020) MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction.
-  **[Paper]()**
+  **[Paper](https://arxiv.org/pdf/1910.05449.pdf)**
 
 
 ## ICRA
 
 - (2022) MultiPath++: Efficient Information Fusion and Trajectory Aggregation for Behavior Prediction.
-  **[Paper]()**
+  **[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812107)**
 - (2022) Path-Aware Graph Attention for HD Maps in Motion Prediction.
-  **[Paper]()**
+  **[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9812100)**
  
  
 ## IROS
  
- - (2021) LaneRCNN: Distributed Representations for Graph Centric Motion Forecasting.
-   **[Paper]()**
- - (2019) Agent_Prioritization_for_Autonomous_Navigation.
-   **[Paper]()**
+- (2021) LaneRCNN: Distributed Representations for Graph Centric Motion Forecasting.
+   **[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636035)**
+- (2019) Agent Prioritization for Autonomous Navigation.
+   **[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967743)**
    
 
 ## ICLR
