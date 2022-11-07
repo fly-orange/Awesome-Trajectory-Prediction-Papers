@@ -13,7 +13,7 @@ Welcome to comments!
 [vision-based-prediction](https://github.com/aras62/vision-based-prediction)  
 [awesome-trajectory-motion-prediction-papers](https://github.com/colorfulfuture/vision-based-prediction)
 
-## CVPR 2022
+## CVPR
 
 - (2022) Adaptive Trajectory Prediction via Transferable GNN.
   **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Adaptive_Trajectory_Prediction_via_Transferable_GNN_CVPR_2022_paper.pdf)**
@@ -127,8 +127,27 @@ Welcome to comments!
   **[Paper]()**
 
   
+## ICCV
 
- 
+- (2021) Bifold and Semantic Reasoning for Pedestrian Behavior Prediction.
+  **[Paper]()**
+- (2021) Spatial-Temporal Consistency Network for Low-Latency Trajectory Forecasting.
+  **[Paper]()**
+- (2021) Where are you heading? Dynamic Trajectory Prediction with Expert Goal Examples.
+  **[Paper]()**
+- (2021) MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction.
+  **[Paper]()**
+- (2021) Unlimited Neighborhood Interaction for Heterogenous Trajectory Prediction.
+  **[Paper]()**
+- (2021) LOKI: Long Term and Key Intentions for Trajectory Prediction.
+  **[Paper]()**
+- (2021) From Goals,Waypoints & Paths To Long Term Human Trajectory Forecasting.
+  **[Paper]()**
+- (2021) LookOut: Diverse Multi-Future Prediction and Planning for Self-Driving.
+  **[Paper]()**
+
+- (2019) PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings.
+  **[Paper]()**
 
 
 ## arXiv
