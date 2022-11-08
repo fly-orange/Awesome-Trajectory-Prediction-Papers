@@ -61,7 +61,7 @@ Welcome to comments!
 - (2022) HiVT: Hierarchical Vector Transformer for Multi-Agent Motion Prediction.
   **[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_HiVT_Hierarchical_Vector_Transformer_for_Multi-Agent_Motion_Prediction_CVPR_2022_paper.pdf)**
   **[Code](https://github.com/ZikangZhou/HiVT)**
-- Raising Context Awareness in Motion Forecasting.
+- (2022) Raising Context Awareness in Motion Forecasting.
   **[Paper](https://openaccess.thecvf.com/content/CVPR2022W/WAD/papers/Ben-Younes_Raising_Context_Awareness_in_Motion_Forecasting_CVPRW_2022_paper.pdf)**
   **[Code](https://github.com/valeoai/CAB)**
  
