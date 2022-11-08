@@ -169,6 +169,7 @@ Welcome to comments!
   **[Paper](https://proceedings.mlr.press/v164/song22a/song22a.pdf)**
 - (2020) MATS: An Interpretable Trajectory Forecasting Representation for Planning and Control.
   **[Paper](https://arxiv.org/pdf/2009.07517.pdf)**
+  **[Code](https://github.com/StanfordASL/MATS)**
 - (2020) TNT: Target-driveN Trajectory Prediction.
   **[Paper](https://proceedings.mlr.press/v155/zhao21b/zhao21b.pdf)**
 - (2020) MultiPath: Multiple Probabilistic Anchor Trajectory Hypotheses for Behavior Prediction.
